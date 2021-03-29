@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Deployed Link: http://graphql_typescript_spacex.surge.sh/
 In the project directory, you can run:
 
 ### `npm start`
